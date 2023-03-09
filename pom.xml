@@ -19,12 +19,6 @@
             <url>https://jitpack.io</url>
         </repository>
     </repositories>
-    
-    <properties>
-        <java.version>17</java.version>
-        <maven.compiler.source>${java.version}</maven.compiler.source>
-        <maven.compiler.target>${java.version}</maven.compiler.target>
-    </properties>
 
     <dependencies>
     </dependencies>
