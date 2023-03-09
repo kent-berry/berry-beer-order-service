@@ -6,7 +6,9 @@ com\berrybeerorderservice\repositories\BeerOrderLineRepository.class
 com\berrybeerorderservice\web\model\CustomerDto.class
 com\berrybeerorderservice\config\TaskConfig.class
 com\berrybeerorderservice\web\model\OrderStatusEnum.class
+com\berrybeerorderservice\web\model\BeerDto.class
 com\berrybeerorderservice\domain\BeerOrderLine.class
+com\berrybeerorderservice\services\BeerServiceImpl.class
 com\berrybeerorderservice\domain\Customer.class
 com\berrybeerorderservice\web\controllers\BeerOrderController.class
 com\berrybeerorderservice\BeerOrderServiceApplication.class
@@ -14,6 +16,8 @@ com\berrybeerorderservice\web\mappers\BeerOrderLineMapperImpl.class
 com\berrybeerorderservice\domain\OrderStatusEnum.class
 com\berrybeerorderservice\bootstrap\BeerOrderBootStrap.class
 com\berrybeerorderservice\web\model\BeerOrderDto$BeerOrderDtoBuilder.class
+com\berrybeerorderservice\web\mappers\BeerOrderLineMapperDecorator.class
+com\berrybeerorderservice\web\model\BeerDto$BeerDtoBuilder.class
 com\berrybeerorderservice\web\model\OrderStatusUpdate$OrderStatusUpdateBuilder.class
 com\berrybeerorderservice\domain\BeerOrder.class
 com\berrybeerorderservice\domain\Customer$CustomerBuilder.class
@@ -22,6 +26,7 @@ com\berrybeerorderservice\web\model\CustomerDto$CustomerDtoBuilder.class
 com\berrybeerorderservice\domain\BaseEntity.class
 com\berrybeerorderservice\web\mappers\BeerOrderLineMapper.class
 com\berrybeerorderservice\web\model\BeerOrderLineDto.class
+com\berrybeerorderservice\web\mappers\BeerOrderLineMapperImpl_.class
 com\berrybeerorderservice\web\model\OrderStatusUpdate.class
 com\berrybeerorderservice\web\model\BaseItem.class
 com\berrybeerorderservice\domain\BeerOrder$BeerOrderBuilder.class
@@ -30,6 +35,7 @@ com\berrybeerorderservice\web\mappers\BeerOrderMapperImpl.class
 com\berrybeerorderservice\services\TastingRoomService.class
 com\berrybeerorderservice\web\model\BeerOrderDto.class
 com\berrybeerorderservice\repositories\CustomerRepository.class
+com\berrybeerorderservice\services\BeerService.class
 com\berrybeerorderservice\web\mappers\DateMapper.class
 com\berrybeerorderservice\domain\BeerOrderLine$BeerOrderLineBuilder.class
 com\berrybeerorderservice\web\mappers\BeerOrderMapperImpl$1.class

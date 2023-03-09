@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.berrybeerorderservice.BeerOrderServiceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.357 s - in com.berrybeerorderservice.BeerOrderServiceApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.392 s - in com.berrybeerorderservice.BeerOrderServiceApplicationTests
