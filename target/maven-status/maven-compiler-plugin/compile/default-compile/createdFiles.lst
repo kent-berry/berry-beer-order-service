@@ -33,6 +33,7 @@ com\berrybeerorderservice\domain\BeerOrder$BeerOrderBuilder.class
 com\berrybeerorderservice\web\mappers\BeerOrderMapper.class
 com\berrybeerorderservice\web\mappers\BeerOrderMapperImpl.class
 com\berrybeerorderservice\services\TastingRoomService.class
+com\berrybeerorderservice\config\JmsConfig.class
 com\berrybeerorderservice\web\model\BeerOrderDto.class
 com\berrybeerorderservice\repositories\CustomerRepository.class
 com\berrybeerorderservice\services\BeerService.class

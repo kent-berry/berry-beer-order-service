@@ -14,6 +14,7 @@ C:\Users\kentw\OneDrive\Desktop\Udemy Spring Microservices\Projects\berry-brewer
 C:\Users\kentw\OneDrive\Desktop\Udemy Spring Microservices\Projects\berry-brewery-workspace\berry-beer-order-service\src\main\java\com\berrybeerorderservice\web\mappers\BeerOrderLineMapper.java
 C:\Users\kentw\OneDrive\Desktop\Udemy Spring Microservices\Projects\berry-brewery-workspace\berry-beer-order-service\src\main\java\com\berrybeerorderservice\web\model\BaseItem.java
 C:\Users\kentw\OneDrive\Desktop\Udemy Spring Microservices\Projects\berry-brewery-workspace\berry-beer-order-service\src\main\java\com\berrybeerorderservice\repositories\CustomerRepository.java
+C:\Users\kentw\OneDrive\Desktop\Udemy Spring Microservices\Projects\berry-brewery-workspace\berry-beer-order-service\src\main\java\com\berrybeerorderservice\config\JmsConfig.java
 C:\Users\kentw\OneDrive\Desktop\Udemy Spring Microservices\Projects\berry-brewery-workspace\berry-beer-order-service\src\main\java\com\berrybeerorderservice\services\BeerOrderService.java
 C:\Users\kentw\OneDrive\Desktop\Udemy Spring Microservices\Projects\berry-brewery-workspace\berry-beer-order-service\src\main\java\com\berrybeerorderservice\web\mappers\BeerOrderLineMapperDecorator.java
 C:\Users\kentw\OneDrive\Desktop\Udemy Spring Microservices\Projects\berry-brewery-workspace\berry-beer-order-service\src\main\java\com\berrybeerorderservice\repositories\BeerOrderRepository.java
