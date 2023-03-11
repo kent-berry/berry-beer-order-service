@@ -21,5 +21,10 @@
     </repositories>
 
     <dependencies>
+        <dependency>
+            <groupId>org.springframework.statemachine</groupId>
+            <artifactId>spring-statemachine-core</artifactId>
+            <version>3.2.0</version>
+        </dependency>
     </dependencies>
 </project>
