@@ -1,4 +1,4 @@
-package com.berrybeerorderservice.services;
+package com.berrybeerorderservice.services.beer;
 
 import com.brewery.model.BeerDto;
 import org.springframework.boot.context.properties.ConfigurationProperties;
