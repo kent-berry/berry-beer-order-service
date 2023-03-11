@@ -1,6 +1,6 @@
 package com.berrybeerorderservice.services;
 
-import com.berrybeerorderservice.web.model.BeerDto;
+import com.brewery.model.BeerDto;
 
 import java.util.Optional;
 import java.util.UUID;

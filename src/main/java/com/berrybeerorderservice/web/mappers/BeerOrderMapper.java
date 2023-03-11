@@ -2,7 +2,7 @@
 package com.berrybeerorderservice.web.mappers;
 
 import com.berrybeerorderservice.domain.BeerOrder;
-import com.berrybeerorderservice.web.model.BeerOrderDto;
+import com.brewery.model.BeerOrderDto;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 
